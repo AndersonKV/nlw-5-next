@@ -5,13 +5,17 @@ export function Header() {
   //const currentDate = new Date().toLocaleDateString().split("/")[0];
 
   enum Months {
-    "Domingo",
-    "Segunda",
-    "Terça",
-    "Quarta",
-    "Quinta",
-    "Sexta",
-    "Sabado",
+    "Janeiro",
+    "Fevereiro",
+    "Maroço",
+    "Abril",
+    "Maio",
+    "Junho",
+    "Agosto",
+    "Setembro",
+    "Outubro",
+    "Novembro",
+    "Dezembro",
   }
 
   enum Weekday {
